@@ -216,7 +216,7 @@ print(response.text)
 ```
 
 
-# Resultado Obtido ao final do Projeto: (Com o CSV anexado)
+# Resultado Obtido ao final do Projeto: (Com o primeiro CSV anexado)
 
 
 " ## Relatório de Desempenho em Literatura - 1º Ano do Ensino Fundamental
@@ -264,3 +264,54 @@ Com base na análise do desempenho individual dos alunos, na identificação das
 * Implementar as sugestões de melhoria e acompanhar o desenvolvimento da turma ao longo do semestre.
 
 Este relatório serve como ponto de partida para uma análise mais aprofundada do desempenho da turma. É essencial que o professor utilize as informações aqui contidas para embasar suas decisões pedagógicas e oferecer um ensino de qualidade para todos os alunos. "
+
+
+# Resultado Obtido ao final do Projeto: (Com o segundo CSV anexado)
+
+## Relatório de Desempenho em **Educação Física** - **1º Ano do Ensino Fundamental**
+
+**Preocupação Inicial:** A menor nota registrada em Educação Física foi **4.86**, indicando a necessidade de uma análise mais profunda do desempenho da turma e da identificação de alunos com dificuldades.
+
+**Objetivo:**  Este relatório visa analisar o desempenho da turma em Educação Física, identificar alunos com dificuldades, áreas que necessitam de mais atenção e sugerir estratégias para melhorar o desempenho geral.
+
+**Metodologia:** A análise se baseia nas notas dos alunos em Educação Física. Para uma análise completa, seria necessário considerar outros dados como:
+
+* Observação do desempenho dos alunos em diferentes atividades.
+* Participação dos alunos nas aulas.
+* Dificuldades específicas relatadas pelos alunos ou observadas pelo professor.
+* Entendimento do contexto socioeconômico e cultural dos alunos.
+
+**Análise do Desempenho da Turma:**
+
+* **Média da turma:** [Insira a média da turma aqui].
+* **Desvio padrão:** [Insira o desvio padrão aqui]. (Um desvio padrão alto indica grande variação no desempenho da turma).
+* **Distribuição das notas:** [Gráfico ou tabela mostrando a distribuição das notas].
+
+**Alunos com Dificuldades:**
+
+* **Alunos com notas abaixo da média:**  [Lista dos alunos com notas abaixo da média e suas respectivas notas]. 
+* **Possíveis causas das dificuldades:**
+    * Falta de desenvolvimento motor adequado à idade.
+    * Dificuldades de aprendizagem específicas.
+    * Falta de interesse ou motivação.
+    * Problemas de saúde ou físicos.
+    * Necessidade de apoio pedagógico individualizado.
+
+**Áreas que Necessitam de Mais Atenção:**
+
+* **Habilidades motoras:** [Especificar as habilidades motoras que a turma apresenta maior dificuldade]
+* **Conhecimentos sobre práticas corporais:** [Especificar os conhecimentos que precisam ser reforçados].
+* **Aspectos socioemocionais:**  Verificar se há alunos com dificuldades de integração, timidez ou baixa autoestima que impactam na participação nas aulas.
+
+**Sugestões para Melhorar o Desempenho:**
+
+* **Atividades diversificadas:** Implementar atividades que atendam aos diferentes níveis de habilidade e interesses dos alunos.
+* **Recursos pedagógicos:** Utilizar materiais didáticos e recursos visuais que tornem as aulas mais atrativas e eficazes.
+* **Abordagem individualizada:** Oferecer atividades de reforço e acompanhamento individualizado para os alunos com dificuldades.
+* **Estratégias de motivação:** Criar um ambiente positivo e encorajador que estimule a participação e o desenvolvimento dos alunos.
+* **Comunicação com os pais:** Manter os pais informados sobre o desempenho dos filhos e buscar sua colaboração para o desenvolvimento das crianças.
+* **Trabalho interdisciplinar:** Integrar a Educação Física com outras disciplinas para ampliar o aprendizado.
+
+**Considerações Finais:**
+
+Este relatório serve como ponto de partida para uma análise mais aprofundada do desempenho da turma. É crucial que o professor utilize diferentes instrumentos de avaliação para um diagnóstico completo, buscando entender as dificuldades de cada aluno e oferecer o suporte necessário para o desenvolvimento integral de todos.

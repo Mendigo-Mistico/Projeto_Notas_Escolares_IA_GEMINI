@@ -1,6 +1,11 @@
 # Projeto_Notas_Escolares_IA_GEMINI
 ## Projeto Desafio da Imersão GEMINI + ALURA
 
+# Introdução
+
+Esse é o primeiro projeto que faço do Python e Colab na prática, já tinha um breve conhecimento na área, mas essa imersão me mostrou um mundo novo de possibiliades do uso da IA GEMINI e Colab.
+
+
 # Descrição:
 
 O meu projeto consiste em uma analise de planilha de notas de um escola, e retorna quais alunos tiveram as menores notas no geral, em cada materia e da um resumo para cada uma dessa materias para que possa ser feita uma aula direcionada as materias em deficit.
@@ -61,8 +66,10 @@ Base de Entrada da Planilha
 *   Materia podenendo ser Colocadas de acordo com a necessidade do professor
 
 *   **Lembrete: As medias do alunos de ensino fundamental, serão diferentes por terem menos materias que no ensimo médio**  
-
-*Imagem
+Exemplo 1:
+<img src="Planilha.png">
+Exemplo 2:
+<img src="Planilha2.png">
 
 **Todas as informações fora geradas pelo Gemini e são fictícias**.
 
@@ -207,3 +214,53 @@ print(prompt)
 response = model.generate_content(prompt)
 print(response.text)
 ```
+
+
+# Resultado Obtido ao final do Projeto: (Com o CSV anexado)
+
+
+" ## Relatório de Desempenho em Literatura - 1º Ano do Ensino Fundamental
+
+**Introdução:**
+
+Este relatório analisa o desempenho da turma do **1º Ano do Ensino Fundamental** na disciplina de **Literatura**, com foco na menor nota registrada: **7,95**. O objetivo é identificar alunos com dificuldades, áreas que requerem atenção e sugerir estratégias para melhorar o desempenho geral da turma.
+
+**Análise da Menor Nota:**
+
+A nota 7,95, sendo a mais baixa, indica que pelo menos um aluno necessita de atenção individualizada. É crucial entender o contexto dessa nota:
+
+* **Representatividade:** Essa nota é um caso isolado ou reflete um padrão na turma? Quantos alunos tiveram notas próximas a essa?
+* **Critérios de avaliação:** O que a avaliação cobrou? A nota reflete dificuldades em leitura, interpretação, criatividade ou outros aspectos?
+* **Fatores externos:**  Existem fatores externos que podem ter impactado o desempenho do aluno, como questões socioemocionais, dificuldades de aprendizagem ou falta de apoio familiar?
+
+**Identificação de Alunos com Dificuldades:**
+
+É necessário ir além da menor nota e analisar o desempenho individual de cada aluno. Identificar alunos com dificuldades em leitura, interpretação textual, desenvolvimento da escrita criativa e outros aspectos relacionados à disciplina. 
+
+**Áreas que Requerem Atenção:**
+
+As áreas que precisam de atenção dependem da análise das dificuldades dos alunos. Alguns exemplos:
+
+* **Compreensão Leitora:** Se a dificuldade reside na compreensão, atividades que estimulem o desenvolvimento da leitura, interpretação e vocabulário são essenciais.
+* **Escrita Criativa:** Se a dificuldade reside na escrita, atividades que estimulem a criatividade, imaginação e expressão escrita podem ser implementadas.
+* **Participação em Aula:** Se a dificuldade reside na participação, estratégias que promovam um ambiente seguro e encorajador para a expressão dos alunos são importantes.
+
+**Sugestões para Melhorar o Desempenho da Turma:**
+
+* **Atividades Diferenciadas:** Diversificar as atividades para atender os diferentes estilos de aprendizagem e níveis de compreensão dos alunos.
+* **Recursos Didáticos Variados:** Utilizar livros infantis, contação de histórias, teatro, músicas e jogos para tornar o aprendizado mais dinâmico e interessante.
+* **Avaliações Formativas:** Implementar avaliações frequentes e variadas para acompanhar o progresso dos alunos e identificar as dificuldades precocemente.
+* **Feedback Individualizado:** Fornecer feedback específico para cada aluno, focando em seus pontos fortes e áreas a serem aprimoradas.
+* **Comunicação com Pais:** Manter os pais informados sobre o desempenho dos alunos e trabalhar em conjunto para oferecer o suporte necessário.
+
+**Conclusão:**
+
+Com base na análise do desempenho individual dos alunos, na identificação das áreas que requerem atenção e na implementação das sugestões de melhoria, é possível promover um ambiente de aprendizagem mais eficaz e engajador,  contribuindo para o desenvolvimento integral dos alunos na disciplina de Literatura.
+
+**Próximos Passos:**
+
+* Analisar detalhadamente o desempenho individual de cada aluno.
+* Realizar uma reunião com os pais para discutir as dificuldades dos alunos e traçar estratégias em conjunto.
+* Implementar as sugestões de melhoria e acompanhar o desenvolvimento da turma ao longo do semestre.
+
+Este relatório serve como ponto de partida para uma análise mais aprofundada do desempenho da turma. É essencial que o professor utilize as informações aqui contidas para embasar suas decisões pedagógicas e oferecer um ensino de qualidade para todos os alunos. "

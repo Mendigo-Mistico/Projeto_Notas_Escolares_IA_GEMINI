@@ -5,6 +5,7 @@
 
 Esse é o primeiro projeto que faço do Python e Colab na prática, já tinha um breve conhecimento na área, mas essa imersão me mostrou um mundo novo de possibiliades do uso da IA GEMINI e Colab.
 
+_Para testei, deixei os arquivos CSV no repositorio._
 
 # Descrição:
 
@@ -97,7 +98,7 @@ df_notas = df_notas.fillna(0)
 df_notas
 
 ```
-Converti as Colunas em Numericas para não dar erro no momento de calcular as médias. Deixando somente as três de cabeçalho como texto
+Converti as Colunas em Numericas para não dar erro no momento de calcular as médias. Deixando somente as três de cabeçalho como texto.
 ```
 # Seleciona as colunas que não devem ser numéricas
 colunas_numericas = df_notas.columns[3:]

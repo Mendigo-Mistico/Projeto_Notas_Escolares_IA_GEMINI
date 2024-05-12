@@ -205,7 +205,7 @@ Define qual será a entrada do Prompt do Gemini
 
 ```
 prompt = f"""
-A menor nota encontrada foi {menor:.2f} na matéria {nome_materia} do ({serie_menor_nota}).
+A menor nota encontrada foi {menor:.2f} na matéria {nome_materia} do ({series_menor_media}).
 ```
 Crie um relatório completo sobre o desempenho dos alunos, destacando os alunos com dificuldades e as áreas que precisam de mais atenção. Inclua também sugestões de como melhorar o desempenho geral da turma.
 """

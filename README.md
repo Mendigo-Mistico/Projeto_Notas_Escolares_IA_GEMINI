@@ -1,4 +1,4 @@
-# Projeto_Notas_Escolares_IA_GEMINI
+# Projeto Notas Escolares Com IA GEMINI
 ## Projeto Desafio da Imersão GEMINI + ALURA
 
 # Introdução
